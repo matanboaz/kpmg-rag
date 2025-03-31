@@ -53,4 +53,4 @@ Returns the top-matching chunks and similarity scores to diagnose underperforman
 
 ## 📫 Contact
 
-For questions or feedback, please reach out to the developer.
+For questions or feedback, please reach out at boazref.matan@mail.huji.ac.il
