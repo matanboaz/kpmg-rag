@@ -1,0 +1,5 @@
+langchain
+pandas
+pinecone
+tqdm
+google
